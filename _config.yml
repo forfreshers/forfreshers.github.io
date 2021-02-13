@@ -20,7 +20,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   helpful resources, tips and tricks on front end dev and design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.forfreshers.in" # the base hostname & protocol for your site, e.g. http://example.com
-enforce_ssl: www.forfreshers.in
 google_analytics: 
 google_adsense: 
 permalink: pretty
