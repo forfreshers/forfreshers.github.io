@@ -4,6 +4,7 @@ title: "How To Start A Blog - 2020"
 date:   2020-02-22 20:20:00 +0000
 author: admin
 intro: This article is all about how to start a blog from scratch, and making money through that blog using affiliate marketing, and google adsense
+description: This article is all about how to start a blog from scratch, and making money through that blog using affiliate marketing, and google adsense
 permalink: /how-to-start-a-blog/
 ---
 

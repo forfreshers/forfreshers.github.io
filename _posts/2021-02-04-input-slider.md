@@ -5,6 +5,7 @@ image:
 date:   2020-09-04 18:25:23 +0000
 author: admin
 intro: HTML5 input range fields are great but they looks different in every browser, in this post we style them to be uniform across browsers.
+description: HTML5 input range fields are great but they looks different in every browser, in this post we style them to be uniform across browsers.
 categories: css html
 permalink: /styling-input-range/
 ---

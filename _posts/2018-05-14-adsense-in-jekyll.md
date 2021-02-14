@@ -5,6 +5,7 @@ image: /assets/22IMui4.jpg
 date:   2021-01-01 12:30:00 +0000
 author: Dale
 intro: How to add Google AdSense to your Jekyll site the right way.
+description: How to add Google AdSense to your Jekyll site the right way.
 categories: adsense jekyll
 permalink: /adSense-in-jekyll/
 ---
