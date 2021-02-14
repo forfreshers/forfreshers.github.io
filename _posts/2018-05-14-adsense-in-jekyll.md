@@ -2,7 +2,7 @@
 layout: post
 title:  "AdSense in Jekyll"
 image: /assets/22IMui4.jpg
-date:   2018-04-01 12:30:00 +0000
+date:   2021-01-01 12:30:00 +0000
 author: Dale
 intro: How to add Google AdSense to your Jekyll site the right way.
 categories: adsense jekyll

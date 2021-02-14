@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Styling Input Range"
-image: https://i.imgur.com/QDCL5dQ.jpg
-date:   2018-02-04 18:25:23 +0000
-author: Dale
+image: 
+date:   2020-09-04 18:25:23 +0000
+author: admin
 intro: HTML5 input range fields are great but they looks different in every browser, in this post we style them to be uniform across browsers.
 categories: css html
+permalink: /styling-input-range/
 ---
 
 The range input was introduced in HTML5 but the style differs wildly between browsers in this post I will talk about how to style this element to look the same in all modern browsers.

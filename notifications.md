@@ -15,19 +15,11 @@ permalink: /latest-notifications/
 ## UPSC
 
 
-| Post Date | Exam/Post                                  | Qualification            | Last Date |More |
-| --------- |:------------------------------------------:|:------------------------:|:----------|:----|
+| Post Date | Exam/Post                  | Qualification   | Last Date |More |
+| --------- |:---------------------------:|:------------------:|:----------|:----|
 | 06/02/2021| Joint Secretary & Director – 30 Post | Degree, PG (Relevant Discipline)|22-03-2021|[Get Details..](https://www.upsc.gov.in/sites/default/files/Advt-No-51-2021-Engl.pdf)
 
 
-
-## Creation
-
-
-| Command   | Summary                |Example             |
-| --------- |:--------------------- :|:------------------:|
-| touch     | Creates a file         | touch index.html   |
-| mkdir     | Creates a directory    | mkdir assets       |
 
 
 
