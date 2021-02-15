@@ -43,14 +43,14 @@ plugins:
   - jekyll-sitemap
 
 compress_html:
-    clippings: []
-    comments: []
-    endings: []
-    ignore:
-    envs: []
-    blanklines: false
-    profile: false
-    startings: []
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: [html, head, body]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
